@@ -57,4 +57,4 @@ client.on('ready', async () => {
     }, 4000)
 })
 
-client.login('TOKEN')
+client.login('ODcyMTEzODk1NzIzMTIyNzE4.YQlJWw.e0z0pb2o_tVhW2Gbjhba4uZi0OU')
