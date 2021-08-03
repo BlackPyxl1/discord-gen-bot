@@ -43,9 +43,7 @@ client.on('ready', async () => {
     console.log('lets mine!')
 
     let statuses = [
-        `skuva`,
-        `ok`,
-        `${client.users.cache.size} Miners👀`
+        `MRBEAST GIVING FREE NITRO! CLICK BEFORE ITS TOO LATE IF YOUR MOM IS POOR!`
     ]
 
     setInterval(function () {
